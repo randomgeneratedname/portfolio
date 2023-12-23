@@ -14,7 +14,7 @@ const AboutMe = () => {
       <div className='w-full md:w-1/2 p-6'>
         <ul className='flex flex-col gap-1'>
           <li className='aboutRightLi'>
-            <span className='aboutRightLiSpan' >Age</span>24
+            <span className='aboutRightLiSpan' >Age</span>25
           </li>
           <li className='aboutRightLi'>
             <span className='aboutRightLiSpan' >Residence</span>Europa
